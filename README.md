@@ -10,11 +10,7 @@ This tool is for educational purpose only, usage of Keiten for attacking targets
 # What is it and why was it made?
 We intentionally made it for our penetration testing jobs and for learning purposes. Our Kaiten c2 now moved onto a better source. And antivirus is dumb.
 Source: https://www.shadowlabs.cc/kaiten
-
-[![GitHub issues]()
-[![GitHub stars]()
-[![GitHub forks]()
-[![Twitter]()
+Video: https://youtu.be/QjHgqBnekpE
 
 ## Features
 
@@ -30,3 +26,16 @@ Source: https://www.shadowlabs.cc/kaiten
 ## Diagrams (also its cool hehe)
 
 ![s](https://i.imgur.com/Nz5SvPU.png)
+
+💰 Donate
+If you like my work, consider buying me a coffee :)
+
+Bitcoin: 12ZGhmVWi8QboVoExWjUFinyJpaKLqAmHN
+
+⚠️ Disclaimer: We are not responsible of any illegal usage.
+
+If you have questions or encountered any problems feel free to inform me in the comments, Thank you for watching.
+
+Telegram: https://t.me/ctoslab/
+Facebook: https://fb.com/ctoslab
+Website: https://ctoslab.com/
