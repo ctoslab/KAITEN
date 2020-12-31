@@ -24,7 +24,7 @@ We intentionally made it for our penetration testing jobs and for learning purpo
 - Android (soon)
 - Mac/Linux
 
-## Diagrams (also its cool hehe)
+## Diagrams 
 
 ![s](https://i.imgur.com/Nz5SvPU.png)
 
