@@ -10,11 +10,7 @@ This tool is for educational purpose only, usage of Keiten for attacking targets
 # What is it and why was it made?
 We intentionally made it for our penetration testing jobs and for learning purposes. Our Kaiten c2 now moved onto a better source. And antivirus is dumb.
 Source: https://www.shadowlabs.cc/kaiten
-
-[![GitHub issues](https://img.shields.io/github/issues/shadowlabscc/Kaiten.svg)](https://github.com/shadowlabscc/ProjectOpal/issues)
-[![GitHub stars](https://img.shields.io/github/stars/shadowlabscc/Kaiten.svg)](https://github.com/shadowlabscc/ProjectOpal/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/shadowlabscc/Kaiten.svg)](https://github.com/shadowlabscc/Kaiten/network)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/shadowlabscc/ProjectOpal.svg?style=popout)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/shadowlabscc/Kaiten)
+Video: https://youtu.be/QjHgqBnekpE
 
 ## Features
 
@@ -31,3 +27,16 @@ Source: https://www.shadowlabs.cc/kaiten
 ## Diagrams (also its cool hehe)
 
 ![s](https://i.imgur.com/Nz5SvPU.png)
+
+💰 Donate
+If you like my work, consider buying me a coffee :)
+
+Bitcoin: 17qcsGD3FTckSqHLH4PE4XfRtcktgAZTJm
+
+⚠️ Disclaimer: We are not responsible of any illegal usage.
+
+If you have questions or encountered any problems feel free to inform me in the comments, Thank you for watching.
+
+Telegram: https://t.me/ctoslab/
+Facebook: https://fb.com/ctoslab
+Website: https://ctoslab.com/
