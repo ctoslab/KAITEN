@@ -37,6 +37,6 @@ Bitcoin: 17qcsGD3FTckSqHLH4PE4XfRtcktgAZTJm
 
 If you have questions or encountered any problems feel free to inform me in the comments, Thank you for watching.
 
-Telegram: https://t.me/ctoslab/
-Facebook: https://fb.com/ctoslab
-Website: https://ctoslab.com/
+*Telegram: https://t.me/ctoslab/
+*Facebook: https://fb.com/ctoslab
+*Website: https://ctoslab.com/
