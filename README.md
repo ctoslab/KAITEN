@@ -10,7 +10,7 @@ This tool is for educational purpose only, usage of Keiten for attacking targets
 # What is it and why was it made?
 We intentionally made it for our penetration testing jobs and for learning purposes. Our Kaiten c2 now moved onto a better source. And antivirus is dumb.
 - Source: https://www.shadowlabs.cc/kaiten
-- Video: https://youtu.be/QjHgqBnekpE
+- Video (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/QjHgqBnekpE
 
 ## Features
 
